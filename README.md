@@ -1,2 +1,2 @@
 # todo-app
-[code snapshot] {![code snapshot](code-snapshot.png)}
+[adding-function] {(code-snapshot.png)}
